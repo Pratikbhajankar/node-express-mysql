@@ -1,12 +1,12 @@
 {
-  "name": "passionatejobserver",
+  "name": "node-express-mysql",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Mayur Mate",
+  "author": "Rahul Harinkhede",
   "license": "ISC",
   "dependencies": {
     "body-parser": "1.9.0",
